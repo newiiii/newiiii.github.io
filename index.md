@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/newiiii/newiiii.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/newiiii/newiiii.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 个人资料
+* 真实姓名：张昊妍
+* 性别：女
+* 年龄：21
+* 籍贯：河北省涿州市
+* 所在学校及学院：石家庄铁道大学信息科学与技术学院
+* 班级及专业：软件工程信1705-2班 
+* GITHUB个人主页地址：https://newiiii.github.io
+### 社会活动情况
+* 大一成为校团委干事，加入信息米阳青协参加多次志愿活动，在班级担任团支书一职。
+* 大二在班级任学习委员，在信息米阳青协担任部长，多次组织志愿活动，参加学院以及班级组织的活动，暑假期间参加“三下乡”社会实践活动。
+### 专业实践活动
+* 完成小学期实践，学习神经网络相关知识。
+### 专业技能展示
+* 掌握Java、python、PHP、C语言等编程语言；
+* 熟悉数据库原理及常用的技术；
+* 熟练使用Office办公软件；
+### 专业博客发表
+* 在博客园发表博客123篇，总结大学期间所学知识。
