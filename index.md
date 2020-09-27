@@ -1,4 +1,4 @@
-<table border="0" frame=void>
+<table frame=void>
   <tr>
     <td width="75%">
       <h2>个人资料</h2>
